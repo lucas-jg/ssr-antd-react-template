@@ -48,7 +48,7 @@ export default () => {
 							/>
 						}
 					>
-						<Meta title="Europe Street beat" description="www.instagram.com" />
+						<Meta title="Dotenv TEST" description={process.env.TEST} />
 					</Card>
 				</Col>
 				<Col xs={12} xl={6} style={{ margin: "10px 0" }}>
