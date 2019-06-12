@@ -1,2 +1,2 @@
 # ant-front
-NextJS + React + Ant Design + Apoloo
+NextJS + React + Ant Design + Apollo
