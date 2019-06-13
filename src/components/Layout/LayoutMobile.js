@@ -165,9 +165,9 @@ class LayoutMobile extends React.Component {
 								)}
 
 								{!isAuthenticated && (
-									<Menu.Item key="signup">
-										<Link href="/signup">
-											<a className="nav-link"> Sign Up</a>
+									<Menu.Item key="video">
+										<Link href="/video">
+											<a className="nav-link">Video</a>
 										</Link>
 									</Menu.Item>
 								)}
