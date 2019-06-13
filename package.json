@@ -6,6 +6,7 @@
 	"author": "Lucas <jkkim@comtrue.com>",
 	"license": "MIT",
 	"dependencies": {
+		"@zeit/next-css": "^1.0.1",
 		"@zeit/next-less": "^1.0.1",
 		"antd": "^3.19.3",
 		"babel-plugin-import": "^1.12.0",
@@ -18,7 +19,8 @@
 		"null-loader": "^3.0.0",
 		"react": "^16.8.6",
 		"react-dom": "^16.8.6",
-		"recompose": "^0.30.0"
+		"recompose": "^0.30.0",
+		"video-react": "^0.13.8"
 	},
 	"scripts": {
 		"dev": "pm2 start server.js",

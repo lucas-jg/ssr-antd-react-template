@@ -18,8 +18,8 @@ export default () => {
 						}
 					>
 						<Meta
-							title="한글 폰트 확인 하고 싶어"
-							description="작은 폰트도 확인하고 싶어"
+							title="한글 폰트 확인 하고 싶어!!"
+							description="작은 폰트도 확인하고 싶어@@"
 						/>
 					</Card>
 				</Col>
