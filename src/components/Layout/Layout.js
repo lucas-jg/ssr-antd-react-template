@@ -48,15 +48,15 @@ class Layout extends React.Component {
 							</Menu.Item>
 
 							{isAuthenticated ? (
-								<Menu.Item key="signin">
+								<Menu.Item key="editor">
 									<Link href="/">
 										<a className="nav-link">Logout</a>
 									</Link>
 								</Menu.Item>
 							) : (
-								<Menu.Item key="signin">
-									<Link href="/signin">
-										<a className="nav-link">Sign In</a>
+								<Menu.Item key="editor">
+									<Link href="/editor">
+										<a className="nav-link">Editor</a>
 									</Link>
 								</Menu.Item>
 							)}
